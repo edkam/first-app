@@ -17,7 +17,7 @@ var tapCount = 0
     }
     @IBAction func buttonPressed(_ sender: Any) {
         tapCount = tapCount + 1
-        if tapCount >= 16 {
+        if tapCount >= 5 {
             coolLabel.text = "I told you not to tap that shit"
         
         }else{
