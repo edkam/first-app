@@ -3,7 +3,7 @@
 //  first app
 //
 //  Created by Edvin Kamenjasevic on 30/3/17.
-//  Copyright © 2017 Shibby. All rights reserved.
+//  Copyright © 2017 Shibby. All rights reserved..
 //
 
 import UIKit
